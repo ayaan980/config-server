@@ -3,4 +3,5 @@ spring:
     config:
       server:
         git:
-          uri: 
+          uri: https://github.com/ayaan980/config-server
+          clone-on-start: true
